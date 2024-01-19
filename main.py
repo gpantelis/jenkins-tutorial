@@ -1,2 +1,2 @@
 if __name__ == "__main__":
-    print("hello space software")
+    print("hello world")
