@@ -21,7 +21,6 @@ pipeline {
                 echo "Testing.."
                 sh '''
                 python3 main.py
-                python3 main.py --name=Brad
                 '''
             }
         }
